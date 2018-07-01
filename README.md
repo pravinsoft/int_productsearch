@@ -1,4 +1,4 @@
-1.3.2	README.md template 
+README.md   
 
 Section 1
 	Name: Pravinkumar Patil
@@ -7,10 +7,11 @@ Section 1
 Section 2: 
 	Build IDE: Eclipse Java EE IDE (Version: Oxygen.3a Release (4.7.3a))
 	JDK Version: java version "1.8.0_162
+	
 Section 3 
 a)	Sonar lint / EclEmma scan Snapshot 
-b)	Final Output Snapshot  ![SonarLint] https://github.com/pravinsoft/int_productsearch/joutput.jpg
-c)	Junit Coverage Snapshot ![SonarLint] https://github.com/pravinsoft/int_productsearch/junit.jpg
+b)	Final Output Snapshot   https://github.com/pravinsoft/int_productsearch/joutput.jpg
+c)	Junit Coverage Snapshot https://github.com/pravinsoft/int_productsearch/junit.jpg
 
 
 Section 4 
